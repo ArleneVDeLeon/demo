@@ -1,3 +1,5 @@
+#!/bin/bash
+
 git --version
 echo Y|sudo apt remove git
 sudo add-apt-repository -y ppa:git-core/ppa
